@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Oi, tudo bem? Mais sobre minha pessoa:
 🎓 Graduando em Eng. da Computação.<br>❣️ Apaixonado pelo mundo "tech" e pela inovação na área.<br>💻 Possuo aprendizado nas seguintes tecnologias: JS, TS, PostgreSQL, Node.js e C, Python e Java.<br>🧠 Tenho uma inclinação ao ramo empresarial e desenvolvimento de novas tecnologias, como Visão Computacional.<br>
 
 
