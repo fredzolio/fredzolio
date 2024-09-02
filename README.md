@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Work Moment: Data Science and Machine Learning with Cyber Security Background.<br>🎓 Computer Eng.<br>🍃 Family, PC, Holidays and TV Shows.
 
 
