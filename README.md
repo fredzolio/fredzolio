@@ -1,6 +1,6 @@
 # 👋 About Me
 
-🔭 Data Scientist & Fullstack Developer with a Cybersecurity background.<br>
+🔭 Backend Developer | API & AI Agents Specialist | Python | Go | Node.js | Kubernetes | Generative AI<br>
 🎓 Computer Engineer | Passionate about AI, Cloud, and DevOps.<br>
 🌍 Open to international opportunities and collaborations.<br>
 🍃 Family, Tech, Travel, and TV Shows.
