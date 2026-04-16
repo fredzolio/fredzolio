@@ -4,10 +4,10 @@ Backend Developer | API & AI Agents Specialist | Python | Go | Node.js | Kuberne
 Computer Engineer | Passionate about AI, Cloud, and DevOps.<br>
 
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredzolio)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=firefox&logoColor=white)](https://fredzolio.dev)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/fredzolio)
 
-# 🚀 Tech Stack
+# Tech Stack
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
