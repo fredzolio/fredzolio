@@ -1,4 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=91195110)
+![](https://komarev.com/ghpvc/?username=fredzolio&color=grey&style=flat&label=profile+views)
 <h2> Hi there, I'm Frederico Zolio! 👋 </h2>
 
 <p>
